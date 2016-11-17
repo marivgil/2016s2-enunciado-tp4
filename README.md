@@ -117,7 +117,7 @@ li.algo {
 ```
 
 
-### Bonus: dimensione y colores
+### Bonus: dimensiones y colores
 
 
 Las variables pueden ser de tipo dimensión (píxeles) o color, y deben poder operarse aritméticamente, por ejemplo:
